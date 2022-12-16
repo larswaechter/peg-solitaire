@@ -1,7 +1,6 @@
 # peg-solitaire
 
 Solving the Peg Solitaire puzzle game using backtracking in Kotlin. Read more [here](https://larswaechter.dev/solitaire-backtracking/).
-You can run the JAR file with `java -jar ./peg-solitaire.jar`.
 
 ```
  ---------------
@@ -13,4 +12,13 @@ You can run the JAR file with `java -jar ./peg-solitaire.jar`.
 |     X X X     |
 |     X X X     |
  ---------------
+```
+
+## Run
+
+You can build and run the JAR file using the following commands:
+
+```shell
+mvn install
+java -jar ./target/peg-solitaire-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
