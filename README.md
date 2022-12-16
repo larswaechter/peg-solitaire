@@ -1,6 +1,6 @@
 # peg-solitaire
 
-Solving the Peg Solitaire puzzle game using backtracking in Kotlin. Read more [here](https://larswaechter.dev/solitaire-backtracking/).
+Solving the Peg Solitaire puzzle game using backtracking in Kotlin. Read more [here](https://larswaechter.dev/blog/solitaire-backtracking/).
 
 ```
  ---------------
@@ -16,8 +16,8 @@ Solving the Peg Solitaire puzzle game using backtracking in Kotlin. Read more [h
 
 ## Requirements
 
-- Maven
 - Java
+- Maven
 
 ## Run
 
