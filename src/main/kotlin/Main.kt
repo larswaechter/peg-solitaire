@@ -1,7 +1,7 @@
 import kotlin.system.measureTimeMillis
 
 fun main(args: Array<String>) {
-    performanceTest()
+    simulate()
 }
 
 fun simulate() {
